@@ -1,0 +1,52 @@
+html, body{
+    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.card{
+    background-color: yellow;
+    width: 350px;
+    height: 400px;
+}
+lord-icon{
+
+    margin: 18px 0 10px 35%;
+}
+h4{
+    text-align: center;
+}
+#refresh{
+    margin: 12px 5px 5px 4px;
+}
+#enter{
+    height: 38px;
+    width: 75px;
+    margin: 10px 0px 0px 151px;
+}
+.result{
+    height: 65px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    background-color: #fdf8e1;
+
+}
+.image{
+    background: none;
+    padding-left: 65px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+img{
+    height: 100%;
+    width: 100%;
+}
