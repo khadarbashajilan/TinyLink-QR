@@ -42,11 +42,12 @@ h4{
 .image{
     background: none;
     padding-left: 65px;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 img{
+    visibility:hidden;
     height: 100%;
     width: 100%;
+}
+.showqr{
+    visibility:visible;
 }
